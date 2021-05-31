@@ -10,4 +10,6 @@ Credits to : Afiq Irfan, Tengku Naim, Azri Anwar.
 # Game Mechanics
 #### Due to the limited time we had, we decided to implement a simple Mario-like mechanic where the enemies would die if the player jumps on top of them.
 
+- The endings would be different depending on how you play the game.
+
 ![alt text](https://github.com/kerolzeeq/CrossDressing-Whale-vs-The-Circus/blob/main/level1.png?raw=true)
